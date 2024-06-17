@@ -3,7 +3,7 @@ import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
-import ProjectCard from './projectCard'
+import ProjectCard from './components/projectCard'
 
 function AboutPage() {
     return (

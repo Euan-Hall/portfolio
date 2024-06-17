@@ -1,4 +1,4 @@
-import ProjectCard from './projectCard'
+import ProjectCard from './components/projectCard'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 
